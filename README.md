@@ -97,5 +97,5 @@ I'm actively looking for opportunities in AI/Data Science & Machine Learning.
 If you're hiring or collaborating on similar projects — feel free to reach out!
 
 - 📧 **ics22106@uom.edu.gr**
-- 💼 LinkedIn: *(add your profile)*
+- 💼 LinkedIn: *[here](https://www.linkedin.com/in/petros-vezalis1/ )*
 - 💡 Portfolio: Coming soon!
